@@ -42,6 +42,9 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  color: #CB1F23;
+  text-decoration: none;
+  font-weight: 700;
 }
 a:active,
 a:hover {
@@ -615,8 +618,248 @@ pre tt:before,
 pre tt:after {
   content: "";
 }
-@media only screen and (max-width: 480px) {
+
+
+
+/* customised */
+.background-image {
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-color: #02253B;
+}
+
+.background-blue {
+  background-color: #02253B;
+  min-height: 100vh;
+  background-attachment: fixed;
+  padding-bottom: 5vh;
+}
+
+.welcome-description {
+  padding-left: 20vw;
+  padding-top: 30vh;
+  width: 70vw;
+  position: relative;
+}
+
+.title-font {
+  font-size: 5em;
+  color: #FEF8D6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+.normal-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4em;
+  line-height: 1.5;
+  font-weight: 100;
+}
+
+.normal-text-red {
+  color: #CB1F23;
+}
+
+.normal-text-yellow {
+  color: #FEF8D6;
+}
+
+.logo {
+ position: absolute;
+ background: url(../images/anchor.svg);
+  right: 85vw;
+  width: 64px;
+  background-size: 64px;
+  height: 64px;
+}
+
+.secondary-title-font {
+  font-size: 3em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+.tertiary-title-font {
+  font-size: 1.1em;
+  opacity: 60%;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
+  padding-bottom: 2.5vh;
+}
+
+.main-container {
+  margin: 0 auto;
+  max-width: 60vw;
+  padding-top: 5vh;
+}
+
+.list-container {
+  padding-top: 2.5vh;
+}
+
+.list-container h3 {
+  font-size: 1.4em;
+  color: #FEF8D6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+.list-container small {
+  font-size: 0.8em;
+  color: #FEF8D6;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.list-container span {
+  font-size: 1em;
+  color: #CB1F23;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.back-button {
+  background-color: #00436D;
+  width: 100%;
+  border-radius: 4px;
+  padding: 1em;
+  text-align: center;
+  color: #FEF8D6;
+  font-size: 1.1em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+.centering {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.date-on-post {
+  font-size: 1em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-style: italic;
+  padding-top: 2.5vh
+}
+
+.essay-container {
+  padding-top: 5vh;
+  font-size: 1em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.social-link-icon {
+  padding-right: 1em;
+  font-size: 1.5em;
+  color: #FEF8D6;
+}
+
+.dropdown-container{
+  display: none;
+}
+
+@media only screen and (max-width: 1024px) {
+  .main-container {
+    max-width: 80vw;
+    padding-top: 5vh;
+  }
+}
+
+@media only screen and (max-width: 680px) {
   html {
     font-size: 100%;
   }
+
+  .big-screen-menu{
+    display: none;
+  }
+
+  .dropdown-container {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 3vh;
+    padding: 0.5em;
+    z-index: 999;
+    width: fit-content;
+  }
+
+  .dropdown-container ul{
+    display: none;
+  }
+
+  .dropdown-container .dropdown-menu-icon {
+    float: right;
+    color: #FEF8D6;
+    background-color: #02253B;
+    border: none;
+    padding: 0.5em;
+    font-size: 1.5em;
+  }
+
+  .dropdown-container.showcontent {
+    background-color: #00436D;
+  }
+
+  .dropdown-container.showcontent ul{
+    text-align: left;
+    width: 90vw;
+    color: #FEF8D6;
+    list-style: none;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .dropdown-list-item {
+    display: block;
+    padding: 1em;
+  }
+
+  .normal-text {
+    font-size: 1.2em;
+  }
+
+  .logo {
+     left: 0vw;
+     width: 56px;
+     background-size: 56px;
+     height: 56px;
+   }
+
+  .main-container {
+    max-width: 92vw;
+    padding-top: 5vh;
+  }
+
+  .title-font {
+    word-wrap: break-word;
+    font-size: 4.5em;
+  }
+
+  .secondary-title-font {
+    word-wrap: break-word;
+    font-size: 2.5em;
+  }
+
+  .background-image {
+    background-image: url(../images/background-mobile.jpg);
+    width: 100vw;
+  }
+
+  .welcome-description {
+    padding: 0.5em;
+    padding-top: 2.2em;
+    width: 100%;
+    text-align: center;
+    position: relative;
+  }
 }
+
