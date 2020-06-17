@@ -13,7 +13,7 @@ const IndexPage = () => (
       <h1 className="title-font">Hey! I am Tiong</h1>
       <p className="normal-text-red normal-text">
         Here I share my thoughts about tech, personal development and just about life
-        in general.<br></br><Link to="/writings">Read my writings </Link>
+        in general.<br></br><Link to="/writings"><span style={{textDecoration:"underline"}}>Read my writings</span> </Link>
       </p>
     </div>
   </div>

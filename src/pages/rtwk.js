@@ -8,18 +8,19 @@ export default function RTWK() {
       <SEO title="RTWK" />
       <h1 className="secondary-title-font normal-text-yellow">RTWK</h1>
       <p className="tertiary-title-font">
-        (read: 'Re-Tweak') stands for Random Thoughts Worth Keeping. Some of
-        them are not actually random. But essentially it is a collection of
-        aphorism I came across plus some of my musings.
+        (read: 'Re-Tweak') stands for Random Thoughts Worth Keeping. It is
+        random because it is a collection of aphorisms from a myriad of random
+        people, including myself. It is random also because it is not bounded by any underlying discourse.
       </p>
+      <hr />
       <section className="essay-container normal-text-yellow">
         <p>
           The older you get, the more you need to understand baby steps,
           especially in learning something or in relationship.
         </p>
         <p>
-          To not care about what shitty things people think of you, you also need to
-           not care about what shiny things people think of you.
+          To not care about what shitty things people think of you, you also
+          need to not care about what shiny things people think of you.
         </p>
         <p>
           All of life forms strive to reach their maximum potential, except

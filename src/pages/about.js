@@ -10,6 +10,7 @@ export default function About({ data }) {
     <Layout>
       <SEO title="About Me" />
       <h1 className="secondary-title-font normal-text-yellow">About Me</h1>
+      <hr/>
       <Img
         fluid={data.file.childImageSharp.fluid}
         alt="a pop art photo of the wizard"

@@ -105,8 +105,9 @@ figure {
 }
 hr {
   box-sizing: content-box;
-  height: 0;
-  overflow: visible;
+  
+  overflow: hidden;
+  border: 1px solid #FEF8D6;
 }
 button,
 input,
@@ -653,11 +654,13 @@ pre tt:after {
   font-weight: 900;
 }
 
+
+
 .normal-text {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.4em;
   line-height: 1.5;
-  font-weight: 100;
+  font-weight: 400;
 }
 
 .normal-text-red {
@@ -696,6 +699,13 @@ pre tt:after {
   margin: 0 auto;
   max-width: 60vw;
   padding-top: 5vh;
+}
+
+.main-container hr {
+  box-sizing: content-box;
+  height: 1;
+  overflow: hidden;
+  background-color:  #FEF8D6;
 }
 
 .list-container {
