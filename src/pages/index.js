@@ -2,8 +2,10 @@ import React from "react"
 import { Link } from "gatsby"
 import SEO from "../components/seo"
 import Menu from "../components/menu"
+import "../components/layout.css"
 
 const IndexPage = () => (
+
   <div className="background-image">
     <Menu />
     <SEO title="Home" />
