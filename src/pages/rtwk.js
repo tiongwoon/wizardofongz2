@@ -7,7 +7,7 @@ export default function RTWK() {
     <Layout>
       <SEO title="RTWK" />
       <h1 className="secondary-title-font normal-text-yellow">RTWK</h1>
-      <p className="tertiary-title-font normal-text-yellow">
+      <p className="tertiary-title-font">
         (read: 'Re-Tweak') stands for Random Thoughts Worth Keeping. Some of
         them are not actually random. But essentially it is a collection of
         aphorism I came across plus some of my musings.
