@@ -22,20 +22,20 @@ Somehow there is this social pressure of making friends when entering university
 
 The consequence? One will likely end up with the wrong friends. One's eagerness to impress and make friends results in the wrong metrics being used to select friends. They include popularity, wealth, race, coolness, looks, status, nationality, and a dumpster of other ultra-superficial reasons. These metrics ended up becoming the substitute for one's judgement of human character and values compatibility and soon, intro music starts to play and the drama begins. 
 
-Good news is, eventually, values will be the ultimate jury and dictates the outcome of a friendship. A disparity in values will spell the end and vice versa. This is under the caveat that one doesn't conform and blindly submits to group think. Easier said than done though, but awareness of it goes a long way. 
+Good news is, eventually, values will be the ultimate jury and dictates the outcome of a friendship. A disparity in values will spell the end and vice versa. This is under the caveat that one doesn't conform and blindly submits to groupthink. Easier said than done though, but awareness of it goes a long way. 
 
-There is something poetry about the courage to be alone and the refusal to conform to 'because everyone else is like that'. Looking back, those who do so are always respectable. Took me a while to realise that no company is better than bad company. The nature fact that humans are social animals does not mean spending time with people who make you feel exhausted is justifiable or even worthwhile. 
+There is something poetic about the courage to be alone and the refusal to conform to 'because everyone else is like that'. Looking back, those who do so are always respectable. Took me a while to realise that no company is better than bad company. The nature fact that humans are social animals does not mean spending time with people who make you feel exhausted is justifiable or even worthwhile. 
 
 Ironically, the freedom to choose who you spend your time with and the audacity to stand alone will make you a better friend (and lover). 
 
 ## Download the Life Template?  
-Since young, perhaps due to a combination of the my upbringing, environment, and the films and shows that I consumed, I was made to believe that the end goal is to live my life following what I call the template of life:
+Since young, perhaps due to a combination of my upbringing, environment, and the films and shows that I consumed, I was made to believe that the end goal is to live my life following what I call the template of life:
 
 Attend university -> graduate -> get a secure job once you graduate -> buy a car and a house (ideally by the age of 28) -> get married (ideally before 30)  -> start a family with some babies -> get your kids to repeat the previous steps 
 
 As university students, we sometimes face huge amount of pressure from society to live out the template, that we are either a template champion or a failure of the universe. There is always the next to-do item in the pipeline. When are you getting a job? When are you getting married? When are you buying a house? 
 
-How bout when are you going to start living a life? 
+How bout when are you going to start living life? 
 
 I realise (with huge relief) that this could not be further from the truth. There is no template. Neither is there a law of nature that says we need to be. 
 
