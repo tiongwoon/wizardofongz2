@@ -8,12 +8,24 @@ export default function RTWK() {
       <SEO title="RTWK" />
       <h1 className="secondary-title-font normal-text-yellow">RTWK</h1>
       <p className="tertiary-title-font">
-        (read: 'Re-Tweak') stands for Random Thoughts Worth Keeping. It is
-        random because it is a collection of aphorisms from a myriad of random
-        people, including myself. It is random also because it is not bounded by any underlying discourse.
+        (read: 'Re-Tweak') stands for Random Thoughts Worth Keeping. It is a
+        collection of aphorisms. 'Random' is because it is not bounded by any
+        underlying discourse.
       </p>
       <hr />
       <section className="essay-container normal-text-yellow">
+        <p>
+          Everyone I have met was the same. For some it is money, for some it is
+          women, drinking, children, family, even worshipping gods, dreams,
+          power...Everyone had to be drunk on something to keep pushing on.
+          Everyone was a slave to something. Even him who called himself King. -
+          Kenny Ackermann
+        </p>
+        <p>If you win, you live. If you lose, you die. If you don't fight, you can't win - Eren Yaeger</p>
+        <p>
+          Chasing good experience all the time is itself a bad experience,
+          accepting bad experience is itself a good experience. - Mark Manson
+        </p>
         <p>
           The older you get, the more you need to understand baby steps,
           especially in learning something or in relationship.
@@ -38,7 +50,7 @@ export default function RTWK() {
           lives to serve them - Yuval
         </p>
         <p>Ted Mosby has the world's best memory. Fictionally-speaking.</p>
-        <p>Growing up is realising that Ted Mosby is the bad guy.</p>
+        <p>Growing up is realising that Ted Mosby is the bad example.</p>
       </section>
     </Layout>
   )
