@@ -6,7 +6,7 @@ shorttitle: "University Reflections"
 
 ---
 
-I just graduated from a four-year degree. It was a long and strenuous journey and has its ups and downs. I hope to lay down some of my observations, reflections, and lessons in this post. As I am aware there are a ton of '11 Advices From a Graduate' and 'How To Succeed in University' kind of articles out there, I tried my best to not make this post another one of 'those'.
+I just graduated from a four-year degree. It was a long and strenuous journey and has its ups and downs. I hope to lay down some of my observations, reflections, and lessons in this post. As I am aware there are a ton of '11 Pieces of Advice From a Graduate' and 'How To Succeed in University' kind of articles out there, I tried my best to not make this post another one of 'those'.
 
 ## How I Met Your Loafer - On Choosing a Group Member  
 Throughout my university tenure, I worked in lots of group projects and I gradually picked up an important heuristic when it comes to choosing a group member - the best group member is not the one who has the best grades, it is the one who shares the same outcome expectation as you. 
