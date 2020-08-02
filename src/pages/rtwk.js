@@ -15,6 +15,52 @@ export default function RTWK() {
       <hr />
       <section className="essay-container normal-text-yellow">
         <p>
+          The man who wants to gain wisdom profits greatly from having thought
+          for a time that man is basically evil and degenerate: this idea is
+          wrong, like its opposite, but for whole periods of time it was
+          predominant and its roots have sunk deep into us and into our world.
+          To understand ourselves we must understand it; but to climb higher, we
+          must then climb over and beyond it. We recognise that there are no
+          sins in the metaphysical sense; but, in the same sense, neither are
+          there any virtues; we recognise that this entire realm of moral ideas
+          is in a continual state of fluctuation, that there are higher and
+          deeper concepts of good and evil, moral and immoral. A man who desires
+          no more from things than to understand them easily makes peace with
+          his soul and will err(or 'sin', as the world calls it) at the most out
+          of ignorance, but hardly out of desire. He will no longer want to
+          condemn and root out his desire; but his single goal, governing him
+          completely, to understand as well as he can at all times, will cool
+          him down and soften all the wildness in his disposition. In addition,
+          he has rid himself of a number of tormenting ideas; he no longer feels
+          anything at the words 'pains of hell', 'sinfulness', 'incapacity for
+          the good': for him they are only the evanescent silhouettes of
+          erroneous thoughts about life and the world. - Friedrich Nietzsche
+        </p>
+        <p>
+          Free-spirited people, living for knowledge alone, will soon find they
+          have achieved their external goal in life, their ultimate position vis
+          a vis society and the state, and gladly be satisfied, for example,
+          with a minor position or a fortune that just meets their needs, for
+          they will set themselves up to live in such a way that a great change
+          in economic conditions, even a revolution in political structures,
+          will not overturn their life with it. They expend as little energy as
+          possible on all these things, so that they can plunge with all their
+          assembled energy, as if taking a deep breath, into the element of
+          knowledge. They can then hope to dive deep, and also get a look at the
+          bottom. Such a spirit will be happy to take only the corner of an
+          experience, he does not love things in the whole breath and prolixity
+          of their folds; for he does not want to get wrapped up in them. -
+          Friedrich Nietzsche
+        </p>
+        <p>
+          By knowing ourselves and regarding our nature itself as a changing
+          sphere of opinions and moods, thus learning to despise it a bit, we
+          bring ourselves into balance with others again. It is true, we have
+          good reason to despise each of our acquaintances, even the greatest;
+          but we have just as good reasons to turn this feeling against
+          ourselves. - Friedrich Nietzsche
+        </p>
+        <p>
           A theory is like a medicine (or government): often useless, sometimes
           necessary, always self serving, and on occasion lethal. - Nassim Taleb
         </p>
