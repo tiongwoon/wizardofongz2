@@ -9,7 +9,7 @@ export default function Writings({ data }) {
     <Layout>
         <SEO title="Writings" />
       <h1 className="secondary-title-font normal-text-yellow">Writings</h1>
-      <p className="tertiary-title-font ">My thoughts on a range of stuff including but not limited to decentralisation, philosophy and personal development.</p>
+      <p className="tertiary-title-font ">My thoughts and curiosities including but not limited to decentralisation, philosophy and personal development.</p>
       <hr/>
       {data.allMarkdownRemark.edges.map(post => (
         <div className="list-container" key={post.node.id}>
