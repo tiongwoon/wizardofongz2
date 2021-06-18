@@ -16,20 +16,12 @@ export default function About({ data }) {
         alt="a pop art photo of the wizard"
       />
       <p className="essay-container normal-text-yellow">
-        Hey, my name is Tiong Woon and above is a photo of me in pop art style
-        (my hair is darker in real life). I am a Malaysian of Chinese descent.
+        Hey, my name is Tiong Woon. I am a Malaysian of Chinese descent.
         My main passions are reading,{" "}
         <a target="blank" href="https://www.mixcloud.com/zandder/">
           <span style={{ fontWeight: "900", color: "#FEF8D6" }}>DJ-ing</span>
         </a>
-        , football (Manchester United diehard fan here), and running. I mainly
-        read non-fictions about philosophy, human history, mental models, and
-        anything from Nassim Taleb, Naval Ravikant, Robert Greene, Yuval Noah
-        Harari, and Mark Manson. I started this blog as a medium to share my
-        thoughts on a range of topics such as philosophy, tech, and personal
-        development. I also want to exercise my web development skills and what
-        better way than to build something for yourself ;). Feel free to reach
-        out to me via the channels below.
+        , football, creative stuff(drawing etc) and running. Feel free to reach out to me via the channels below.
       </p>
       <a
         className="social-link-icon"
